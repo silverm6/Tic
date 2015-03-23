@@ -1,0 +1,110 @@
+.square{
+    float:left; 
+    width:150px;
+    height:150px; 
+}
+
+.v{
+    border-left:2px solid #FFC788;
+    border-right:2px solid #FFC788;
+
+}
+
+.h{
+    border-top:2px solid #FFC788;
+    border-bottom:2px solid #FFC788; 
+}
+#aa {   
+    margin-left: 33%; 
+    display:none;   
+    color:#4601FE;
+    opacity: 0.3;
+    cursor:default;
+}
+#bb { 
+    margin-left:30%;
+   
+    display:none;   
+    color:#4601FE;
+    opacity: 0.3;
+    cursor:default;
+}
+#cc { 
+    margin-left:30%;
+   
+    display:none;   
+    color:#4601FE;
+    opacity: 0.3;
+    cursor:default;
+}
+#dd {
+    margin-left:33%;
+    display:none;   
+    color:#4601FE;
+    opacity: 0.3;
+    cursor:default;
+}
+#ee {
+    margin-left:30%;
+    display:none;   
+    color:#4601FE;
+    opacity: 0.3;
+    cursor:default;
+}
+#ff {
+    margin-left:30%;
+    display:none;   
+    color:#4601FE;
+    opacity: 0.3;
+    cursor:default;
+}
+#gg {
+    margin-left:33%; 
+    display:none;   
+    color:#4601FE;
+    opacity: 0.3;
+    cursor:default;
+}
+#hh {
+    margin-left:30%;
+    display:none;   
+    color:#4601FE;
+    opacity: 0.3;
+    cursor:default;
+}
+#ii {
+    margin-left:30%;
+    display:none;   
+    color:#4601FE;
+    opacity: 0.3;
+    cursor:default;
+}
+
+#board { 
+    margin-left: calc(50% - 200px);
+}
+#usr {
+    position: absolute;
+    opacity: 0.7;
+    margin-left:calc(50% - 340px); 
+}
+#aw {
+    position: absolute;
+    margin-left: calc(50% - 43px); 
+    font-family: Helvetica; 
+}
+#aw:hover {
+    cursor:default;
+}
+#pc { 
+    opacity: 0.7;
+    margin-left: calc(50% + 290px);  
+}
+#pc:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+#usr:hover {
+    opacity: 1;
+    cursor: pointer;
+}
